@@ -1,0 +1,25 @@
+
+.productImage {
+  width: 150px;
+  height: 150px;
+}
+
+.singleProduct {
+  width: 100px;
+}
+
+.productTableHeader {
+  display: flex;
+  text-align: center;
+
+}
+
+.productTableHeader div, .productTableContent div {
+  margin: 50px auto;
+  width: 300px;
+}
+
+.productTableContent {
+  display: flex;
+  text-align: center;
+}
